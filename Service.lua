@@ -1,6 +1,3 @@
-
--- Decompiled with the Synapse X Luau decompiler.
-
 server = nil;
 client = nil;
 Pcall = nil;
