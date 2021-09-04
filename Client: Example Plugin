@@ -1,5 +1,4 @@
 
--- Decompiled with the Synapse X Luau decompiler.
 --this is literally named example plugin?!?!?!
 
 client = nil;
